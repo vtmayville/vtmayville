@@ -4,7 +4,7 @@
 I am a recent graduate with a Master's degree in Cybersecurity & Information Assurance and a background as a DoD Intelligence Analyst. I am passionate about solving complex problems and expanding my technical skillset. I enjoy learning to code and building projects that blend security principles with hands-on tech.
 
 ## Objective
-With a graduate degree in cybersecurity and a strong intelligence background, I am seeking to transition into the IT or cybersecurity field. I am looking for dynamic team to learn and grow with, while also leveraging my analytical skills, passion for technology, and growing technical expertise. At this moment, I am looking for any IT or cybersecurity-adjacent environment.
+With a graduate degree in cybersecurity and a strong intelligence background, I am seeking to transition into the IT or cybersecurity field. I am looking for a dynamic team to learn and grow with, while also leveraging my analytical skills, passion for technology, and growing technical expertise. At this moment, I am looking for any IT or cybersecurity-adjacent environment.
 
 ## Skills
 | Skill                                         | Associated Project         |
